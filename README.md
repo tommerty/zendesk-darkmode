@@ -1,2 +1,3 @@
-# zendesk darkmode
- A Chrome extension to make Zendesk have darkmode
+# WXT + React
+
+This template should help get you started developing with React in WXT.
